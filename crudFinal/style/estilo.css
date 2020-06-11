@@ -1,0 +1,50 @@
+@charset "utf-80";
+
+h1{
+    text-align: center;
+    color: white;
+    font-size:100px;
+
+    
+}
+
+.subtitulo{
+    font-size:50px;
+    background-color: rgba(189, 87, 24, 0.5) ;
+
+}
+
+body{
+    background-color:gray;
+    background-image: url("https://w.wallhaven.cc/full/vg/wallhaven-vgj6dm.jpg");
+    
+}
+
+table td{
+    text-align: center;
+    border: 3px;
+}
+
+table .sin{
+    border: 1px;
+}
+
+table .bot{
+    padding:5px;
+}
+
+table .primera_fila{
+    font-size: 2em;
+    text-decoration: underline;
+    background-color: black;
+    color: darkorange;
+}
+
+table .casillas{
+    font-size: 5px;
+}
+
+.centrado{
+    text-align: center;
+    font-size: 21px;
+}
